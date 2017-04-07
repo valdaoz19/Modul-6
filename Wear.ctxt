@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ dmg
+comment0.target=void\ setWeapon(java.lang.String,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getWeapon()
+comment2.params=name\ def
+comment2.target=void\ setArmor(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getArmor()
+comment4.params=
+comment4.target=double\ getWeaponDmg()
+comment5.params=
+comment5.target=double\ getArmorDef()
+numComments=6
